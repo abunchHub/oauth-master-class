@@ -1,6 +1,6 @@
 window.onload = () => {
   YaSendSuggestToken(
-   'https://oauth-master-class-ruby.vercel.ap/', {
+   'https://oauth-master-class-ruby.vercel.app/', {
       flag: true
    }
 )
