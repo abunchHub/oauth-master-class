@@ -4,7 +4,7 @@ window.onload = () => {
       {
         client_id: "03efac3baf7e4526bac1af5b90c6a4b5",
         response_type: "token",
-        redirect_uri: "https://oauth-master-class-ruby.vercel.app/token.html",
+        redirect_uri: "http://oauth-master-class-ruby.vercel.app/token.html",
       },
       "https://oauth-master-class-ruby.vercel.app/",
       {
